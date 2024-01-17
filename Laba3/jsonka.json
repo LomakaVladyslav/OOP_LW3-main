@@ -1,0 +1,65 @@
+[
+  {
+    "IsSelected": false,
+    "Discipline": "Physics",
+    "Teacher": "Petro Petrovich",
+    "Audience": 202,
+    "Faculty": "Physics",
+    "Time": "11:00",
+    "Day": "Tuesday"
+  },
+  {
+    "IsSelected": false,
+    "Discipline": "Chemistry",
+    "Teacher": "Olena Oleksiivna",
+    "Audience": 303,
+    "Faculty": "Chemistry",
+    "Time": "12:00",
+    "Day": "Wednesday"
+  },
+  {
+    "IsSelected": false,
+    "Discipline": "Computer Science",
+    "Teacher": "Andriy Andriyovich",
+    "Audience": 404,
+    "Faculty": "Computer Science",
+    "Time": "14:00",
+    "Day": "Thursday"
+  },
+  {
+    "IsSelected": false,
+    "Discipline": "Biology",
+    "Teacher": "Maria Mariivna",
+    "Audience": 505,
+    "Faculty": "Biology",
+    "Time": "16:00",
+    "Day": "Friday"
+  },
+  {
+    "IsSelected": false,
+    "Discipline": "Geography",
+    "Teacher": "Victor Viktorovich",
+    "Audience": 106,
+    "Faculty": "Geography",
+    "Time": "09:00",
+    "Day": "Monday"
+  },
+  {
+    "IsSelected": false,
+    "Discipline": "History",
+    "Teacher": "Svitlana Svitlanivna",
+    "Audience": 207,
+    "Faculty": "History",
+    "Time": "11:00",
+    "Day": "Tuesday"
+  },
+  {
+    "IsSelected": false,
+    "Discipline": "Lenaloh",
+    "Teacher": "Andrew Wojna",
+    "Audience": 666,
+    "Faculty": "FCSC",
+    "Time": "Satana",
+    "Day": "19:30"
+  }
+]
